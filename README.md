@@ -1,2 +1,2 @@
 # Data-Science-Learning
-In this repo I have created a data science learning libraraies like Numpy,Pandas,Matplotlib and so on.
+In this repo I have created a data science learning libraries like Numpy,Pandas,Matplotlib and so on.
