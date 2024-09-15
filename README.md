@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Data Science Learning
 
 This repository is a collection of resources for learning data science. It includes courses, books, articles, and other materials to help you develop your skills in this field.
@@ -30,11 +29,7 @@ If you're new to data science, start with the basics. Here are some recommended 
 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/): A series of articles that use interactive visualizations to explain the basics of machine learning.
 - [Why Logistic Regression should be the last thing you learn when becoming a Data Scientist](https://towardsdatascience.com/why-logistic-regression-should-be-the-last-thing-you-learn-when-becoming-a-data-scientist-96cccc7416ae): An article that argues that logistic regression is overrated and explains why other algorithms are more powerful.
 - [The curse of big data: why correlation does not imply causation](https://www.theguardian.com/news/datablog/2012/apr/27/correlation-causation): An article that explains the difference between correlation and causation and why it's important for data analysis.
-
-## Contributing
-
-If you have any suggestions for additional resources, feel free to submit a pull request.
-=======
+*** 
 # Data Science Projects
 
 This repository contains data science projects that use Python, machine learning, and statistical analysis to explore and analyze data.
@@ -77,11 +72,6 @@ jupyter notebook
 ```
 
 The Jupyter Notebook file contains code and documentation that explains the data analysis process and any insights or conclusions that were discovered.
-
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and submit a pull request. 
->>>>>>> other-repo/main
 
 ## License
 
